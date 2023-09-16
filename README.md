@@ -12,3 +12,9 @@ A visualizer is given too to see the propagating wave. It will show the input si
 ```bash
 python3 graph.py
 ```
+## CurrentBenchMarks:
+GridSize: 250 x 250 TimeSteps: 200 ScatterPoints: 70 
+(875,000,000 operations)
+Cpu: 28.43 seconds
+Gpu: 0.988
+Hardware: GEforce 3060
