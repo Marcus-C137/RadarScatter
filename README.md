@@ -3,7 +3,7 @@ Runs a simulation of a lfm signal generated from a single source using both the 
 
 ## To Run:
 ```bash
-nvcc test.cu -o test
+nvcc test.cu -o test.o
 ./test
 ```
 
